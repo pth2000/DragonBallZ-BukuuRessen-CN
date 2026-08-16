@@ -1,0 +1,10 @@
+screen	id	simplified_chinese
+df00	prompt	请选择要查看的项目。
+df00	arts	必杀技
+df00	special	特殊能力
+df00	team	团队必杀技
+df01	prompt	请选择要查看的项目。
+df01	support	支援
+df01	team	团队必杀技
+df02	team	团队必杀技
+df03	team	团队必杀技

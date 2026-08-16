@@ -1,0 +1,51 @@
+name: 翻译或排版建议
+description: 提交译文、术语、字形或界面排版建议
+title: "[Translation] "
+labels:
+  - translation
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 建议类型
+      options:
+        - 译文或术语
+        - 标点或字形
+        - 换行或排版
+        - 界面定位
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: 位置
+      description: 提供 TSV 文件、稳定 ID、路线、界面或纹理名称。
+      placeholder: data/translation/story_zh.tsv，ID 123
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 当前内容或表现
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议修改
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: 理由与参考
+      description: 说明上下文、官方译名依据或与原版排版的差异。
+    validations:
+      required: true
+  - type: checkboxes
+    id: legal
+    attributes:
+      label: 内容确认
+      options:
+        - label: 我没有附加 ROM、存档、完整提取资源或其他未获授权内容。
+          required: true

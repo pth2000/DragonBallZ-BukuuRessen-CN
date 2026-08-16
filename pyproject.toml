@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dragonballz-bukuu-ressen-cn-tools"
+# Not published to PyPI; releases are tagged on GitHub.
+version = "0.0.0"
+description = "Reproducible Simplified Chinese translation and ROM-patching tools for Dragon Ball Z: Bukuu Ressen (Nintendo DS, ADBJ)"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = ["Pillow>=10.0", "capstone>=5.0"]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+extend-exclude = ["work", "build", "dist"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "UP", "B", "SIM", "RUF"]
+ignore = [
+  # The translation data and messages are Chinese; full-width punctuation is
+  # intentional, not an ambiguous-character mistake.
+  "RUF001",
+  "RUF002",
+  "RUF003",
+  # zip(..., strict=) would change runtime behaviour on length mismatch.
+  # Worth adopting deliberately, not as a bulk lint fix.
+  "B905",
+]

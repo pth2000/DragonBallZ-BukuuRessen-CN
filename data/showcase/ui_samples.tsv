@@ -1,0 +1,5 @@
+id	title	archive	en_archive	texture	en_texture	palette	en_palette	width
+character-gkn-ex1	资料模式角色卡 · 必杀技	romdata/data/DataModeDataImage.bin	romdata/data/DataModeDataImage_EN.bin	JA\gkn\data_gkn_ex1.ntft	EN\gkn\data_gkn_ex1.ntft	JA\gkn\data_gkn_ex1.ntfp	EN\gkn\data_gkn_ex1.ntfp	256
+character-gkn-sp1	资料模式角色卡 · 特殊能力	romdata/data/DataModeDataImage.bin	romdata/data/DataModeDataImage_EN.bin	JA\gkn\data_gkn_sp1.ntft	EN\gkn\data_gkn_sp1.ntft	JA\gkn\data_gkn_sp1.ntfp	EN\gkn\data_gkn_sp1.ntfp	256
+character-gkn-team1	资料模式角色卡 · 团队必杀技	romdata/data/DataModeDataImage.bin	romdata/data/DataModeDataImage_EN.bin	JA\gkn\data_gkn_team1.ntft	EN\gkn\data_gkn_team1.ntft	JA\gkn\data_gkn_team1.ntfp	EN\gkn\data_gkn_team1.ntfp	256
+maptitle-gok-00	剧情地图标题	romdata/scene/maptitle_jp_tex.bin	romdata/scene/maptitle_en_tex.bin	titlebar_gok_00.ntft	titlebar_gok_00.ntft	titlebar_gok_00.ntfp	titlebar_gok_00.ntfp	256

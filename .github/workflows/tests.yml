@@ -1,0 +1,31 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  core:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Install uv
+        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
+        with:
+          python-version: "3.12"
+          enable-cache: true
+      - name: Sync dependencies
+        run: uv sync --frozen
+      - name: Lint
+        run: uvx ruff check src tools tests
+      - name: Run ROM-free tests
+        run: uv run python -m unittest discover -s tests -v
+      - name: Check public tree
+        run: uv run python tools/check_public_tree.py
+      - name: Check release metadata
+        run: uv run python tools/check_release_metadata.py
+      - name: Check glossary
+        run: uv run python tools/check_glossary.py

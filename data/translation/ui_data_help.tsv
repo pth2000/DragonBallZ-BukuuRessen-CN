@@ -1,0 +1,7 @@
+texture	section	heading_chinese	body_chinese
+arts_help_JA	rapid	连射型必杀技	带有此图标的必杀技，发动后\n连续按X键即可提升威力。
+arts_help_JA	charge	蓄力型必杀技	带有此图标的必杀技，发动后\n持续按住X键即可提升威力。
+arts_help_JA	ultimate	究极必杀技	体力槽变红时才能发动，\n每场战斗仅可使用1次。
+sp_help_JA	body		特殊能力需在气力达到指定值后，\n按L键发动。\n有些角色满足条件后，\n会自动发动特殊能力。\n不同角色消耗的气力也不同。
+sup_help_JA	body		支援角色加入队伍后，\n会显示在战斗画面下方。\n触碰下方画面的角色即可登场。\n支援角色会根据自身特性，\n以攻击或特殊能力协助战斗。
+teamarts_help_JA	body		团队必杀技需由指定角色组队，\n并在气力达到200以上时，\n触碰下方的团队必杀技按钮发动。\n若任意一名发动角色无法战斗，\n便无法使用团队必杀技。

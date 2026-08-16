@@ -1,0 +1,36 @@
+# Python and uv
+.venv/
+.uv-cache/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.coverage
+htmlcov/
+
+# Local ROMs, downloaded fonts, backups and scratch files
+work/*
+!work/.gitkeep
+
+# Generated builds and release assets
+build/*
+!build/.gitkeep
+dist/
+
+# Emulator and ROM files: never commit these
+*.nds
+*.srl
+*.sav
+*.dsv
+*.ml1
+*.ml2
+*.state*
+
+# Editors, agents and operating systems
+.idea/
+.vscode/
+.claude/settings.local.json
+*.swp
+Thumbs.db
+.DS_Store

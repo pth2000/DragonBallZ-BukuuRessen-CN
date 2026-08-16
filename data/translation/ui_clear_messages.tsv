@@ -1,0 +1,16 @@
+resource	id	simplified_chinese
+message_jp_dp	dp_small	DP增加1点。
+message_jp_normal00	dp_1	DP增加1点。
+message_jp_normal01	unlock_hard	困难等级已解锁。
+message_jp_normal02	maximum_course_normal	现在可在MAXIMUM模式的\n课程选择中使用。
+message_jp_hard00	dp_2	DP增加2点。
+message_jp_hard01	unlock_mania	狂热等级已解锁。
+message_jp_hard02	maximum_course_hard	现在可在MAXIMUM模式的\n课程选择中使用。
+message_jp_hell00	dp_max	DP已达到上限。
+message_jp_hell01	unlock_evil_vegeta	新增角色\n魔人贝吉塔！\n可在角色选择中使用。
+message_jp_hell02	select_super_vegeta	将光标移至\n超级赛亚人贝吉塔，\n按R键＋A键即可选择。
+message_jp_story_00	story_support	支援次数增加1次。
+message_jp_tutorial00	tutorial_support	支援次数增加1次。
+message_jp_zbattle00	unlock_maximum	MAXIMUM模式已解锁。
+message_jp_zbattle01	maximum_menu	现在可从模式选择中进入。
+message_jp_zbattle02	zbattle_support	支援次数增加1次。

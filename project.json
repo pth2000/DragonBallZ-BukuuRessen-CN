@@ -1,0 +1,20 @@
+{
+  "game_title_jp": "DRAGON BALL Z 舞空烈戦",
+  "game_code": "ADBJ",
+  "rom_version": 0,
+  "rom_size": 67108864,
+  "source_sha256": "a18a79f4da2bc3d836645714092ec7c8b38ad53160078e26b854329d7fc9923e",
+  "baseline_target_sha256": "e39f60dd37eb1ed33d5a59ead067892c8e41894ed9d93b916a5683a2be3a50e0",
+  "baseline_patch": "data/baseline/font_baseline.bps",
+  "release_target_sha256": "ef3dc920dee52d406e4b8e08b02e2d5ecda1cc722add8919fc212b6e84ce3b44",
+  "release_patch_sha256": "bc884fcc70f1183048fe914f0a0ead752e54b33ad27fa93566a849f1ef3669c4",
+  "release_patch_name": "DBZ_Bukuu_Ressen_CN.bps",
+  "script_path": "romdata/scene/script.bin",
+  "font_path": "romdata/scene/font_jp.bin",
+  "arm9_font_map_relative_offset": "0xC8978",
+  "arm9_font_map_entries": 1659,
+  "translation_table": "data/translation/story_zh.tsv",
+  "custom_glyph_map": "data/mapping/custom_glyph_map.tsv",
+  "font_slots": "data/mapping/font_slots.tsv",
+  "full_translation_slots": "data/mapping/full_cn_reusable_slots.tsv"
+}

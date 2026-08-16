@@ -1,0 +1,50 @@
+﻿code_hex	native_slot_character	page	x0	y0	x1	y1	changed_pixels	status	assigned_character
+925A	短	4	0	0	14	14	46	custom_active	只
+967E	盆	5	30	0	44	14	54	legacy_modified_unused	
+9684	埋	5	75	0	89	14	58	custom_active	寻
+9686	昧	5	90	0	104	14	61	custom_active	找
+9687	枚	5	105	0	119	14	48	custom_active	龙
+9694	又	5	150	0	164	14	63	custom_active	珠
+96A3	魅	5	15	15	29	29	63	legacy_modified_unused	
+96AF	民	5	45	15	59	29	44	custom_active	贝
+96B1	務	5	75	15	89	29	48	custom_active	塔
+96B5	矛	5	120	15	134	29	43	custom_active	，
+96C2	鳴	5	210	15	224	29	62	legacy_modified_unused	
+96D1	毛	5	0	30	14	44	55	custom_active	伙
+96D8	木	5	30	30	44	44	53	custom_active	伴
+96E1	貰	5	90	30	104	44	56	custom_active	们
+96E5	門	5	120	30	134	44	69	custom_active	连
+96EE	矢	5	165	30	179	44	42	custom_active	负
+96F3	訳	5	225	30	239	44	67	custom_active	伤
+9745	勇	5	30	45	44	59	58	custom_active	对
+9767	揚	5	225	45	239	59	35	custom_active	拥
+9768	揺	5	240	45	254	59	59	custom_active	怕
+976A	曜	5	0	60	14	74	55	custom_active	强
+976E	溶	5	30	60	44	74	54	custom_active	气
+977E	欲	5	135	60	149	74	57	custom_active	这
+9787	裸	5	165	60	179	74	37	custom_active	种
+97A3	離	5	60	75	74	89	67	custom_active	是
+97A5	律	5	75	75	89	89	56	custom_active	毁
+97A6	率	5	90	75	104	89	63	custom_active	掉
+97AD	溜	5	150	75	164	89	52	custom_active	两
+97D7	隣	5	45	90	59	104	79	custom_active	升
+97F1	列	5	150	90	164	104	55	custom_active	吗
+9852	漏	5	75	105	89	119	63	custom_active	棘
+985A	六	5	135	105	149	119	41	custom_active	过
+985E	録	5	150	105	164	119	53	custom_active	也
+986D	藁	5	210	105	224	119	66	custom_active	开
+98A4	丶	5	240	105	254	119	42	custom_active	发
+9AD0	墟	5	0	120	14	134	50	legacy_modified_unused	
+9AF8	奢	5	15	120	29	134	54	custom_active	需
+9CE0	憫	5	60	120	74	134	72	custom_active	时
+9E42	曖	5	75	120	89	134	63	custom_active	间
+E0CE	猥	5	90	120	104	134	69	custom_active	你
+E263	稍	5	120	120	134	134	54	custom_active	战
+E472	舐	5	135	120	149	134	67	custom_active	斗
+E581	蛛	5	150	120	164	134	62	custom_active	把
+E5F6	褻	5	165	120	179	134	51	custom_active	什
+E690	謳	5	180	120	194	134	61	custom_active	么
+E6D2	贅	5	195	120	209	134	62	custom_active	级
+E888	闊	5	210	120	224	134	61	legacy_modified_unused	
+E951	餡	5	0	135	14	149	58	custom_active	兴
+E981	驕	5	15	135	29	149	53	custom_active	奋

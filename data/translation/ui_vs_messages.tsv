@@ -1,0 +1,8 @@
+screen	id	simplified_chinese
+msg_j	host	发起对战。\n选择角色与场景后，\n请等待对手加入。
+msg_j	join	加入已创建的对战。\n选择角色后，\n请选择对手和场景。
+msg_j	challenge	挑战选中的对手。
+obi_j	overflow	无法显示更多联机对手。
+vsmsg_j	standby	正在等待连接
+vsmsg_j	failed	连接失败。
+vsmsg_j	press_a	请按A键。

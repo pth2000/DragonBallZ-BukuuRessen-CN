@@ -1,0 +1,7 @@
+id	simplified_chinese
+timelimit	设置对战的时间限制。\nON……有时间限制\nOFF……无时间限制
+gamerank	调整游戏难度。\n1……简单\n2……普通\n3……困难
+damage	调整攻击造成的伤害。\n1……普通\n2……较高\n3……极高
+regulation	设置背光灯的开关。\nON……开启背光灯\nOFF……关闭背光灯
+credit	查看制作人员名单。
+optmode	可在选项模式中调整\n游戏的各项设置。\n按SELECT键恢复默认设置。

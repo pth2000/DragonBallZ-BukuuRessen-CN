@@ -1,0 +1,196 @@
+﻿character	item	category	simplified_chinese	requires_detail	simplified_chinese_detail	secondary_simplified_chinese	secondary_simplified_chinese_detail
+gkn	ex1	arts	双龙弹	yes	向上时		
+gkn	ex2	arts	龟派气功	yes	横向时		
+gkn	ex3	arts	元气弹	yes	向下时		
+gkn	ex4	arts	二十倍界王拳	yes	横向时		
+gkn	sp1	special	界王拳	yes	提升攻击力。		
+gkn	team1	team	父子龟派气功	no			
+gkn	team2	team	双重攻击	no			
+gkn	team3	team	身体互换特别版	no			
+gkn	team4	team	超级元气弹	no			
+gks	ex1	arts	气合连弹	yes	向上时		
+gks	ex2	arts	龟派气功	yes	横向时		
+gks	ex3	arts	超龙击弹	yes	向下时		
+gks	ex4	arts	超级赛亚人3	yes	横向时		
+gks	sp1	special	瞬间移动	yes	同时按方向键和L键，\n即可进行瞬间移动。		
+gks	team1	team	超绝龟派气功	no			
+gks	team2	team	超级贝吉特剑	no			
+ghk	ex1	arts	魔击弹	yes	向上时		
+ghk	ex2	arts	龟派气功	yes	横向时		
+ghk	ex3	arts	魔闪烈弹	yes	向下时		
+ghk	ex4	arts	狂怒连击	yes	靠近对手时		
+ghk	sp1	special	暴怒	yes	悟饭以外的队友全被击倒后，\n攻击力提升。		
+ghk	team1	team	父子龟派气功	no			
+ghk	team2	team	魔闪光杀炮	no			
+ghn	ex1	arts	激绝乱魔	yes	向上时		
+ghn	ex2	arts	连续气合弹	yes	横向时		
+ghn	ex3	arts	魔闪光	yes	向下时		
+ghn	ex4	arts	魔激闪光弹	yes	横向时		
+ghn	sp1	special	超级赛亚人	yes	提升攻击力。		
+ghn	team1	team	气之解放	no			
+ghn	team2	team	魔连击	no			
+gho	ex1	arts	龟派气功	yes	向上时		
+gho	ex2	arts	激烈魔闪弹	yes	横向时		
+gho	ex3	arts	激烈破弹	yes	向下时		
+gho	ex4	arts	超级龟派气功	yes	横向时		
+gho	sp1	special	超级赛亚人	yes	提升攻击力。		
+gho	sp2	special	真力解放	yes	大幅提升攻击力。		
+gho	team1	team	超绝龟派气功	no			
+gho	team2	team	双剑斩	no			
+pic	ex1	arts	魔空包围弹	yes	向上时		
+pic	ex2	arts	魔贯光杀炮	yes	横向时		
+pic	ex3	arts	激烈光弹	yes	向下时		
+pic	ex4	arts	神魔伏灭	yes	向上时		
+pic	sp1	special	再生能力	yes	恢复体力。		
+pic	team1	team	双重攻击	no			
+pic	team2	team	魔闪光杀炮	no			
+pic	team3	team	异端冲击	no			
+pic	team4	team	排球攻击	no			
+pic	team5	team	魔连击	no			
+crr	ex1	arts	气圆连斩	yes	向上时		
+crr	ex2	arts	龟派气功	yes	横向时		
+crr	ex3	arts	操气弹	yes	向下时		
+crr	ex4	arts	流星气功弹	yes	横向时		
+crr	sp1	special	潜在能力解放	yes	提升攻击力。		
+crr	team1	team	双重气圆斩	no			
+crr	team2	team	气之解放	no			
+crr	team3	team	地球战士们	no			
+vgn	ex1	arts	最终连弹	yes	向上时		
+vgn	ex2	arts	伽力克炮	yes	横向时		
+vgn	ex3	arts	流星爆裂	yes	向下时		
+vgn	ex4	arts	伽力克烈焰	yes	靠近对手时		
+vgn	sp1	special	劲敌意识	yes	队伍中有DP高于自己的\n角色时，气力会有一次\n提升至200。		
+vgn	team1	team	异端冲击	no			
+vgs	ex1	arts	行星爆裂	yes	向上时		
+vgs	ex2	arts	终极闪光	yes	横向时		
+vgs	ex3	arts	大爆炸攻击	yes	向下时		
+vgs	ex4	arts	大爆炸爆裂	yes	向下时		
+vgs	sp1	special	劲敌意识	yes	队伍中有DP高于自己的\n角色时，气力会有一次\n提升至200。		
+vgs	team1	team	超级贝吉特剑	no			
+vgs	team2	team	伽力克爆裂	no			
+trk	ex1	arts	终结爆裂	yes	向上时		
+trk	ex2	arts	爆裂加农炮	yes	横向时		
+trk	ex3	arts	疾速气弹	yes	向下时		
+trk	ex4	arts	MAX爆裂炮	yes	横向时		
+trk	sp1	special	超级赛亚人1.5	yes	提升攻击力。		
+trk	team1	team	伽力克爆裂	no			
+gtk	ex1	arts	银河甜甜圈	yes	向上时		
+gtk	ex2	arts	野猪突击	yes	横向时		
+gtk	ex3	arts	超级幽灵神风攻击	yes	向下时		
+gtk	ex4	arts	超级幽灵炸弹	yes	向下时		
+gtk	sp1	special	胜利V字手势	yes	提升攻击力。		
+gtk	team1	team	排球攻击	no			
+gtk	team2	team	银河甜甜圈	no			
+frz	ex1	arts	死亡光束	yes	向上时		
+frz	ex2	arts	死亡波	yes	横向时		
+frz	ex3	arts	念力爆破	yes	向下时		
+frz	ex4	arts	死亡弹	yes	向下时		
+frz	sp1	special	100%全力	yes	提升攻击力。		
+frz	team1	team	爆裂阵形	no			
+frz	team2	team	绝对邪恶	no			
+frz	team3	team	致盲流星	no			
+frm	ex1	arts	死亡残骸	yes	向上时		
+frm	ex2	arts	邪恶之舞	yes	横向时		
+frm	ex3	arts	噩梦爆破	yes	向下时		
+frm	ex4	arts	库尔德重击	yes	向下时		
+frm	sp1	special	从容	yes	恢复体力。		
+frm	team1	team	冰冻风暴	no			
+gnu	ex1	arts	念力三角阵	yes	向上时		
+gnu	ex2	arts	利库姆毁灭炮	yes	横向时		
+gnu	ex3	arts	粉碎球	yes	向下时		
+gnu	ex4	arts	特战队风暴	yes	靠近对手时		
+gnu	sp1	special	特别战斗姿势	yes	降低对手气力。		
+gnu	team1	team	身体互换特别版	no			
+gnu	team2	team	爆裂阵形	no			
+drg	ex1	arts	光子波	yes	向上时		
+drg	ex2	arts	光子爆破	yes	横向时		
+drg	ex3	arts	眼部光线	yes	向下时		
+drg	ex4	arts	能量吸收	yes	靠近对手时		
+drg	sp1	special	能量吸收屏障	yes	发动期间，吸收对手的气弹，\n并转化为自身气力。		
+drg	team1	team	双重吸收	no			
+egh	ex1	arts	双重爆裂	yes	向上时		
+egh	ex2	arts	光子闪击	yes	横向时		
+egh	ex3	arts	光子突袭	yes	向下时		
+egh	ex4	arts	能量地雷	yes	横向时		
+egh	sp1	special	永久能量炉	yes	移动时不会消耗气力。		
+egh	team1	team	双重气圆斩	no			
+egh	team2	team	地狱螺旋	no			
+cel	ex1	arts	龟派气功	yes	向上时		
+cel	ex2	arts	究极闪击	yes	横向时		
+cel	ex3	arts	究极冲击波	yes	向下时		
+cel	ex4	arts	全力猛攻	yes	向上时		
+cel	sp1	special	尊严	yes	体力低于30%时发动，\n提升攻击力。		
+cel	team1	team	绝对邪恶	no			
+cel	team2	team	小沙鲁乱舞	no			
+bmr	ex1	arts	愤怒爆炸	yes	向上时		
+bmr	ex2	arts	天真加农炮	yes	横向时		
+bmr	ex3	arts	地狱吐息	yes	向下时		
+bmr	ex4	arts	欢乐甜点	yes	靠近对手时		
+bmr	sp1	special	再生能力	yes	恢复体力。		
+bmr	team1	team	撒旦大显身手	no			
+bmj	ex1	arts	泽克斯破坏击	yes	向上时		
+bmj	ex2	arts	狂杀俯冲	yes	横向时		
+bmj	ex3	arts	强袭骤雨	yes	向下时		
+bmj	ex4	arts	九头蛇粉碎击	yes	横向时		
+bmj	sp1	special	强力击打	yes	攻击被对手防住时，\n对手的防御槽上升更多。		
+bmj	team1	team	银河甜甜圈	no			
+bmj	team2	team	暗黑剑斩	no			
+col	ex1	arts	内兹旋风	yes	向上时		
+col	ex2	arts	沙维扎利刃	yes	横向时		
+col	ex3	arts	德雷重压	yes	向下时		
+col	ex4	arts	弧光爆破	yes	横向时		
+col	sp1	special	洗刷污名	yes	队伍中的弗利萨被击倒后，\n提升攻击力。		
+col	team1	team	冰冻风暴	no			
+com	ex1	arts	核心重击	yes	向上时		
+com	ex2	arts	死亡爆破	yes	横向时		
+com	ex3	arts	冰巢	yes	向下时		
+com	ex4	arts	机械暴雨	yes	横向时		
+com	sp1	special	复活	yes	气力为150时被击倒，\n会自动复活。		
+brl	ex1	arts	巨型尖刺	yes	向上时		
+brl	ex2	arts	爆裂炮弹	yes	横向时		
+brl	ex3	arts	行星喷泉	yes	向下时		
+brl	ex4	arts	爆裂流星	no			
+brl	sp1	special	打倒卡卡罗特！	yes	对手中有悟空时，\n提升攻击力。		
+vga	ex1	arts	最终爆破	yes	向上时		
+vga	ex2	arts	原子爆裂	yes	横向时		
+vga	ex3	arts	流星爆裂	yes	向下时		
+vga	ex4	arts	最终爆炸	yes	向上时		
+vga	sp1	special	打倒卡卡罗特！	yes	对手中有悟空时，\n提升攻击力。		
+trn	ex1	arts	疾冲剑	yes	向上时		
+trn	ex2	arts	闪光剑	yes	横向时		
+trn	ex3	arts	新月剑	yes	向下时		
+trn	ex4	arts	爆裂剑	yes	横向时		
+trn	sp1	special	愤怒	yes	对手中有人造人时，\n提升攻击力。		
+trn	team1	team	双剑斩	no			
+gtn	ex1	arts	银河甜甜圈	yes	向上时		
+gtn	ex2	arts	胜利加农炮	yes	横向时		
+gtn	ex3	arts	超级幽灵神风攻击	yes	向下时		
+gtn	ex4	arts	究极超级赛亚人	yes	横向时		
+gtn	sp1	special	超级赛亚人	yes	提升攻击力。		
+cey	ex1	arts	气圆连斩	yes	向上时		
+cey	ex2	arts	龟派气功	yes	横向时		
+cey	ex3	arts	激烈光弹	yes	向下时		
+cey	ex4	arts	吸收	yes	靠近对手时		
+cey	sp1	special	自爆	yes	体力低于30%时，\n可以自爆。		
+cey	team1	team	双重吸收	no			
+tsh	sp1	special	雅木茶	yes	冲向对手，\n大幅削减其防御槽。	天津饭	向对手发射气功炮，\n造成伤害。
+tsh	sp2	special	天津饭	yes	向对手发射气功炮，\n造成伤害。		
+tsh	team1	team	地球战士们	no			
+dnd	sp1	special	丹迪	yes	恢复体力。		
+stn	sp1	special	撒旦先生	yes	随机投掷炸弹。		
+stn	team1	team	超级元气弹	no			
+stn	team2	team	撒旦大显身手	no			
+1617	sp1	special	17号	yes	在玩家前方展开\n无敌屏障。	16号	向对手发动攻击。
+1617	sp2	special	16号	yes	向对手发动攻击。		
+1617	team1	team	地狱螺旋	no			
+bvd	sp1	special	魔导师巴比迪	yes	扰乱对手的操作。		
+cej	sp1	special	小沙鲁	yes	出现在对手身后，\n挥拳攻击。		
+cej	team1	team	小沙鲁乱舞	no			
+zbdd	sp1	special	萨博	yes	发射无法回避的气弹。	多多利亚	连续发射大量气弹。
+zbdd	sp2	special	萨博	yes	发射无法回避的气弹。		
+zbdd	team1	team	致盲流星	no			
+bdk	sp1	special	巴达克	yes	瞬间将气力提升至200。		
+dbr	sp1	special	达普拉	yes	投掷武器。		
+dbr	team1	team	暗黑剑斩	no			
+srn	sp1	special	神龙	yes	可让一名已被击倒的\n队友复活。		
+neko	sp1	special	猫魔人Z	yes	发射猫派气功。		

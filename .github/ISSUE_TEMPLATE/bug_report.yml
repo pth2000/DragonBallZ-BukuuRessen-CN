@@ -1,0 +1,65 @@
+name: 问题报告
+description: 报告构建、工具或游戏内显示问题
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请勿上传 ROM、完整游戏资源、存档或 Save State。截图请裁剪到说明问题所需的最小范围。
+  - type: dropdown
+    id: area
+    attributes:
+      label: 问题范围
+      options:
+        - 构建工具
+        - 剧情文本
+        - 界面文本或排版
+        - 字形
+        - BPS 补丁
+        - 文档
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 项目版本或提交
+      placeholder: Release 名称或 commit SHA
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 环境
+      description: 操作系统、Python/uv 版本，以及模拟器或实机型号（如适用）。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 复现步骤
+      description: 提供最小、明确的操作步骤和相关命令。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际结果
+      description: 可附经过裁剪的截图或不含版权资源的日志。
+    validations:
+      required: true
+  - type: checkboxes
+    id: legal
+    attributes:
+      label: 内容确认
+      options:
+        - label: 我没有附加 ROM、存档、完整提取资源或其他未获授权内容。
+          required: true
