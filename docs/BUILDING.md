@@ -2,17 +2,17 @@
 
 ## 准备源 ROM
 
-构建需要一份自行准备的日版 Rev 0 备份。ROM 放在哪里都可以，命令行传入路径即可。
+构建需要一份自行准备的日版 Rev 0 备份。ROM 位置任意，命令行传入路径即可。
 
-不过项目约定了一个默认位置：
+项目同时约定了一个默认位置：
 
 ```text
 work/original/DBZ_Bukuu_Ressen_ADBJ_Rev0.nds
 ```
 
-`work/` 被 Git 忽略，因此按该文件名放进去不会有误提交的风险。`render_*.py` 系列、`audit_regional_ui.py` 和 12 个界面构建器的 `--source-rom` 都以此为默认值，放好之后即可省略路径参数；`build_release.py` 和 `inspect_rom.py` 仍需显式传入 ROM。
+`render_*.py` 系列、`audit_regional_ui.py` 和 12 个界面构建器的 `--source-rom` 都以此为默认值，可省略路径参数；`build_release.py` 和 `inspect_rom.py` 仍需显式传入 ROM。
 
-本文档其余示例中的 `<原版 ROM>` 均指这份备份的路径。
+本文档其余示例中的 `<原版 ROM>` 均指该路径。
 
 ## 构建入口
 
